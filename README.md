@@ -22,7 +22,7 @@ A preliminary inspection revealed a significant class imbalance, with only about
 
 _BOXPLOTS BY BANKRUPTCY CLASS_
 
-In terms of further exploring the data and possible underlying relationships between the chosen variables, I first created boxplots by bankruptcy class. This allowed me to better analyze how each variable behave across the two classes (healthy firms vs. bankrupt firms.) I was able to observe the following:
+In terms of further exploring the data and possible underlying relationships between the chosen variables, I first created boxplots by bankruptcy class. This allowed me to better analyze how each variable behaved across the two classes (healthy firms vs. bankrupt firms.) I was able to observe the following:
 
 •	_Debt Ratio % (Figure 3):_ Bankrupt firms show a slightly higher median Debt Ratio than healthy firms, with limited overlap between boxplots. The tighter distribution and outliers reaching up to 0.6 suggest excessive leverage in distressed firms, reinforcing its role as a key bankruptcy indicator.
 
@@ -89,6 +89,9 @@ Looking ahead, several steps could enhance the bankruptcy prediction process:
 In the final analysis, this research confirms that targeted financial ratios, when paired with the right classification models, can provide meaningful insights into corporate bankruptcy risk.
 
 
+
+
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/b0f5559a-129e-4101-ab48-492a757c2958" />
 
 
 
