@@ -91,7 +91,49 @@ In the final analysis, this research confirms that targeted financial ratios, wh
 
 
 
+**Figures**
+
+
+_Figure 1_
+
 <img width="302" alt="image" src="https://github.com/user-attachments/assets/b0f5559a-129e-4101-ab48-492a757c2958" />
+
+
+
+_Figure 2_
+
+<img width="297" alt="image" src="https://github.com/user-attachments/assets/a13067ca-b4bf-464e-bbb5-5343b197251a" />
+
+
+
+_Figure 3_
+
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/3ccd30fa-d630-463c-b467-b78b06d17bde" />
+
+
+
+_Figure 4_
+
+<img width="273" alt="image" src="https://github.com/user-attachments/assets/e886ef0a-c479-4b61-97f4-a6081fce3da4" />
+
+
+
+_Figure 5_
+
+<img width="276" alt="image" src="https://github.com/user-attachments/assets/d7f00f9c-4548-431d-a62e-75e024fab4c5" />
+
+
+
+_Figure 6_
+
+<img width="356" alt="image" src="https://github.com/user-attachments/assets/dc2596eb-64a6-4101-bdf7-df3b392ebcab" />
+
+
+
+
+
+
+
 
 
 
