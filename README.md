@@ -76,7 +76,7 @@ The F1-score for bankrupt firms was 0.31, the best balance so far between precis
 
 **CONCLUSION & NEXT STEPS** 
 
-This project set out to explore whether bankruptcy could be accurately predicted using a set of financial ratios, guided by the structure of the Ohlson O score model. Using six carefully selected features related to leverage, liquidity, and profitability, I evaluated three machine learning models, namely, Logistic Regression, K Nearest Neighbors, and Random Forest, against a baseline majority-class predictor.
+This project set out to explore whether bankruptcy could be accurately predicted using a set of financial ratios, guided by the structure of the Ohlson O score model. Using six carefully selected features related to leverage, liquidity, and profitability, I evaluated models, namely, Logistic Regression, K Nearest Neighbors, and Random Forest, against a baseline majority-class predictor.
 
 All models outperformed the baseline in recall and ranking ability, with Random Forest emerging as the best overall performer, achieving the strongest balance between precision and recall, and the highest F1-score for the bankrupt class. Logistic Regression, while conceptually aligned with the Ohlson framework, struggled with recall at the default threshold, and KNN, although improved through tuning, still showed tradeoffs in precision and ranking.
 
@@ -127,6 +127,27 @@ _Figure 5_
 _Figure 6_
 
 <img width="356" alt="image" src="https://github.com/user-attachments/assets/dc2596eb-64a6-4101-bdf7-df3b392ebcab" />
+
+
+
+_Figure 7_
+
+<img width="345" alt="image" src="https://github.com/user-attachments/assets/ac7fb3a4-7fbf-41ce-91e5-cf6908ba24df" />
+
+
+
+_Figure 8_
+
+<img width="354" alt="image" src="https://github.com/user-attachments/assets/2569a64e-ee60-4b75-9fb0-8255d742a563" />
+
+
+
+_Figure 9_
+
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/48b97781-ddf8-4441-837e-ac9ecfa76267" />
+
+
+
 
 
 
